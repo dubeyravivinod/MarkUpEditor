@@ -1,0 +1,23 @@
+.App{
+  /* border: 2px solid red; */
+  height: 100vh;
+  width: 100%;
+}
+.topdiv{
+  /* border: 2px solid blue; */
+  height: 18%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: inset 5px 5px 30px black;
+  background-color: darkkhaki;
+}
+.bottomdiv{
+  /* border: 2px solid blue; */
+  height: 82%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: antiquewhite;
+}

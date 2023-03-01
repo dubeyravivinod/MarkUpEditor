@@ -1,0 +1,21 @@
+.outputdiv{
+    /* border: 0px 2px 0px 0px  solid red; */
+    border-style: none none none double;
+    height: 100%;
+    width: 50%;
+}
+.outputdiv h3{
+    /* border: 2px solid red; */
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.markdown{
+    /* border: 2px solid black; */
+    height: 90%;
+    width: 100%;
+    padding:2rem 3rem;
+    font-size: 1.2rem;
+
+}
